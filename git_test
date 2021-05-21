@@ -1,3 +1,8 @@
 hukim
 git_test1
+<<<<<<< HEAD
 testt
+=======
+tes
+cp1
+>>>>>>> 409c1e6 (cp1)
